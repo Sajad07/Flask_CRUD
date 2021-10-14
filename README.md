@@ -28,5 +28,5 @@ pip install -r requirements.txt
 ```
 5 . اجرای برنامه
 ```commandline
-App.py
+python App.py
 ```
